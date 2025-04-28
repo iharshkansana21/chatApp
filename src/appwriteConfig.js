@@ -1,8 +1,8 @@
 import { Client, Databases, Account } from 'appwrite';
 
-export const PROJECT_ID = '67dd9110001180472aad'
-export const DATABASE_ID = '67dd96a90032486f1c83'
-export const COLLECTION_ID_MESSAGES = '67dd96c40009c0161397'
+export const PROJECT_ID = ''
+export const DATABASE_ID = ''
+export const COLLECTION_ID_MESSAGES = ''
 
 const client = new Client();
 client
